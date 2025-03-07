@@ -52,7 +52,7 @@ Nous accompagnons les entreprises dans leur transformation digitale et leur iden
 
 ## 🌐 Nous contacter
 
-📍 **Agence & Atelier** : Camon, Amiens  
+📍 **Agence** : Camon  
 📧 **Email** : contact@pidev.fr  
 🌍 **Site web** : [pidev.fr](https://pidev.fr)  
 
